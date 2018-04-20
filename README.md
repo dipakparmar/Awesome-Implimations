@@ -22,3 +22,13 @@
 <meta name="twitter:app:url:googleplay" content="App Url">
 ```
 - [Deployd](https://github.com/deployd/deployd) - a toolkit for building realtime APIs.
+
+- [console-png](https://www.npmjs.com/package/console-png) - Print PNG images to terminal output
+
+```
+> npm install -g console-png
+> console-png
+Usage: console-png [PNG FILE]...
+> console-png apple.png
+{image shown here}
+```
